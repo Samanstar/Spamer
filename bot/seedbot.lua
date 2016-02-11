@@ -227,7 +227,7 @@ function create_config( )
     "plugins",
     "admin"
     },
-    sudo_users = {139946685,112524566,0,tonumber(our_id)},--Sudo users
+    sudo_users = {157633157,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[TeleTard v3 - Close Source
